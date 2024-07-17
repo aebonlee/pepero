@@ -1,3 +1,3 @@
-# pepero  https://github.com/aebonlee/pepero
+# pepero  http://pepero.jobability.co.kr
 
 <img src="pepero.png">
